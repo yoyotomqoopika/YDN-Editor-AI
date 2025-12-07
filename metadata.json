@@ -1,0 +1,5 @@
+{
+  "name": "Youth Daily News Editor AI",
+  "description": "An AI-powered editorial assistant for Youth Daily News featuring three specialized checking agents: Grammar (Ah Hu), Style Guide (Qing Bao Tong), and Fact Checking (Gu Gou).",
+  "requestFramePermissions": []
+}
